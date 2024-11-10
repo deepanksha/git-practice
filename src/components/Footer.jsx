@@ -5,6 +5,14 @@ const Footer = () => {
     <div>
       Footer
       <p>fgfhgjh</p>
+      <ul>
+        <li>
+          <a href="">home</a>
+          <a href="">About</a>
+          <a href="">Contact</a>
+          <a href="">projects</a>
+        </li>
+      </ul>
     </div>
   );
 };
